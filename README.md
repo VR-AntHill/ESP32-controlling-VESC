@@ -1,5 +1,5 @@
 # ESP32-controlling-VESC
-rough cut version of a esp32 controlling the VESC on my DPV. 
+rough cut version of an esp32 controlling the VESC on my DPV. 
 Based on blatently stolen snippets, plus whatever I managed to throw together without messing up too badly.
 
 Needs cleaning up!
